@@ -1,4 +1,4 @@
-package jpapack1;
+package manytoOne;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;

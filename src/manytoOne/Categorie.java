@@ -1,4 +1,4 @@
-package jpapack1;
+package manytoOne;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package jpapack1;
+package manytoOne;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
